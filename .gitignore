@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+
+# IDE / editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# Python / C++ / C builds
+__pycache__/
+*.pyc
+*.out
+*.exe
+*.o
+
+# Temporary or generated files
+build/
+temp/
+*.log
+
