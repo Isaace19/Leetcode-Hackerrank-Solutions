@@ -1,6 +1,0 @@
-Here is a summary of the problem:
-You are given a vector of integers called numbers.
-The elements of numbers will be between 1 and 1000.
-The size of numbers will be at least two and at most 50.
-Your goal is to add one to exactly one element of numbers, and then calculate the product of all of the elements. The element you choose to increment should be the one that maximizes this product.
-Return the product. It will be a long long, and the inputs will guarantee that product does not exceed 262.
